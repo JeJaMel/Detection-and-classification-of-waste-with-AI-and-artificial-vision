@@ -1,0 +1,1 @@
+# Detection-and-classification-of-waste-with-AI-and-artificial-vision
